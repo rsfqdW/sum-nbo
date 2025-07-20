@@ -47,6 +47,6 @@ int main(int argc, char* argv[]){
 		}	
 	}
 
-	printf(" = %11u(0x%11x)\n", total, total);
+	printf(" = %u(0x%08x)\n", total, total);
 	return 0;
 }
